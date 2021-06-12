@@ -1,6 +1,6 @@
 # movie-app-miniProject
 
-### This mini project illustrate, how to fetch data from a api. In this I am fetching the movies data from the themoviedb.org .
+### This mini project illustrate, how to fetch data from an api. In this I am fetching the movies data from the themoviedb.org .
 
 ### I have created a basic markup, where I am dynamically inserting the data fetched by the API.
 
